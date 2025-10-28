@@ -10,14 +10,14 @@ _Last updated: October 28, 2025_
 
 LaxClock (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we handle information when you use our mobile application **LaxClock** (the “App”).
 
----
+
 
 ## 1. Information We Do Not Collect
 
 LaxClock does **not** require you to create an account, sign in, or provide any personal information.  
 We do **not** collect, store, or share any personally identifiable information (such as your name, email, phone number, or location).
 
----
+
 
 ## 2. Third-Party Services We Use
 
@@ -39,7 +39,6 @@ While LaxClock itself does not collect personal data, the App uses third-party s
 - **Provider:** Google LLC
 - **Privacy Policy:** [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
----
 
 ## 3. Advertising and Analytics
 
@@ -50,14 +49,12 @@ You can learn more about how Google uses information from apps and manage your a
 Analytics data from Firebase helps us understand how the app is used so we can make improvements.  
 All such data is collected in aggregate and does not personally identify users.
 
----
 
 ## 4. User Consent
 
 By using LaxClock, you consent to the use of third-party services as described in this Privacy Policy.  
 Users in certain regions (such as the European Economic Area) may see a consent prompt when the app first launches, giving them the option to manage or withdraw consent for analytics and advertising.
 
----
 
 ## 5. Your Privacy Rights (GDPR / CCPA Compliance)
 
@@ -72,28 +69,24 @@ Because LaxClock does not collect or store user data directly, requests related 
 You can review or manage Google’s data collection here:  
 [https://myaccount.google.com/data-and-personalization](https://myaccount.google.com/data-and-personalization)
 
----
 
 ## 6. Children’s Privacy
 
 LaxClock is intended for general audiences and does not knowingly collect personal data from children under 13 years old.  
 If you believe that your child has shared information through third-party services used by this app, please contact those providers directly.
 
----
 
 ## 7. Data Security
 
 LaxClock does not store any personal or usage data on our own servers.  
 All data collected by third-party services is handled securely in accordance with their respective privacy policies.
 
----
 
 ## 8. Changes to This Policy
 
 We may update this Privacy Policy periodically to reflect new features, regulatory changes, or improvements.  
 Any updates will be posted on this page with a new “Last updated” date. Continued use of the app after updates means you accept the revised policy.
 
----
 
 ## 9. Contact Us
 
