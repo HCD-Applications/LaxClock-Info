@@ -8,7 +8,6 @@ include_in_header: true
 # **Version 1.0**
 Take control of every moment on the field with **LaxClock**, the all-in-one lacrosse game management app. Whether you’re a coach, official, or scorekeeper, LaxClock makes it easy to track game time, shot clock, score, penalties, timeouts, and breaks — all from one clean, intuitive screen.
 
----
 ## Features
 
 ### Time & Scorekeeping Made Simple
@@ -17,15 +16,11 @@ Take control of every moment on the field with **LaxClock**, the all-in-one lacr
 - Use built-in timers for timeouts, halftime, and period breaks.
 - Track alternating possession with a single tap.
 
----
-
 ### Smart Penalty Management
 - Add player penalties individually and in order — LaxClock automatically combines multiple penalties for the same player, with non-releasable time served first.
 - When a team exceeds three penalties, additional penalties are auto-stacked until space is available.
 - Releasable penalties automatically clear when the opposing team scores.
 - Optional time-and-a-half penalty mode for running-time game formats.
-
----
 
 ### Custom Game Formats
 Create and save your preferred game setup for any level of play. Customize:
