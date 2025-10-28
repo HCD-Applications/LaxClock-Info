@@ -21,10 +21,10 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Howard Dickinson
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Charlotte
+your_link                                 : https://www.linkedin.com/in/hcd5
+your_city                                 : Charlotte, NC
 email_address                             : HCD.Applications@gmail.com
-linkedin_username                         :                                           
+linkedin_username                         : hcd5
 linkedin_company                          :                                           
 facebook_username                         :                                           
 instagram_username                        :
@@ -36,49 +36,47 @@ mastodon_link                             :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+features:
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title: "Real-Time Game Control"
+    description: "Keep full command of the game clock, shot clock, and team scores — all updated live from one simple screen."
+    fontawesome_icon_name: "stopwatch"
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title: "Dynamic Clock Sync"
+    description: "Adjust game time on the fly — LaxClock automatically syncs the shot clock, penalties, and breaks."
+    fontawesome_icon_name: "sync"
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title: "Smart Penalty Tracking"
+    description: "Add, stack, and manage penalties effortlessly. Releasable penalties clear on goals, and non-releasable time runs first."
+    fontawesome_icon_name: "exclamation-circle"
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title: "Auto Penalty Logic"
+    description: "Automatically combines penalties, time-and-a-half modes, and stacked timing — so you can focus on the game."
+    fontawesome_icon_name: "cogs"
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title: "Custom Game Formats"
+    description: "Save setups for any league or level. Configure periods, breaks, timeouts, and shot clock resets to match your rules."
+    fontawesome_icon_name: "sliders-h"
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title: "Rule Presets"
+    description: "Instantly load men’s and women’s collegiate or high school timing presets — ready to go out of the box. (LaxClock+ feature)"
+    fontawesome_icon_name: "clipboard-list"
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title: "Sound & Push Alerts"
+    description: "Stay on top of every whistle. Get audio and push alerts for period ends, shot clock expirations, and the two-minute warning. (LaxClock+ feature)"
+    fontawesome_icon_name: "bell"
+
+  - title: "Ad-Free Experience"
+    description: "Upgrade to LaxClock+ for a clean, distraction-free interface designed for focus on the field. "
+    fontawesome_icon_name: "ban"
+
+  - title: "Clean & Intuitive Design"
+    description: "Everything you need in one clear, organized layout optimized for coaches, officials, and scorekeepers alike."
+    fontawesome_icon_name: "mobile"
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
