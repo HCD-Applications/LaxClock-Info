@@ -4,57 +4,100 @@ title: Privacy Policy
 include_in_header: true
 ---
 
-**Last updated**  
-August 1 2019
+# Privacy Policy for LaxClock
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+_Last updated: October 28, 2025_
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+LaxClock (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we handle information when you use our mobile application **LaxClock** (the “App”).
 
-<br>
+---
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 1. Information We Do Not Collect
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+LaxClock does **not** require you to create an account, sign in, or provide any personal information.  
+We do **not** collect, store, or share any personally identifiable information (such as your name, email, phone number, or location).
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+---
 
-<br>
+## 2. Third-Party Services We Use
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+While LaxClock itself does not collect personal data, the App uses third-party services for advertising, analytics, and crash reporting. These services may collect limited information automatically (such as device type, usage data, or advertising identifiers) to perform their respective functions.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+### Google AdMob
+- **Purpose:** Displays in-app interstitial advertisements.
+- **Provider:** Google LLC
+- **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+### Firebase Analytics
+- **Purpose:** Measures app usage, engagement, and user activity to help improve the experience.
+- **Provider:** Google LLC
+- **Privacy Policy:** [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
-<br>
+### Firebase Crashlytics
+- **Purpose:** Reports app crashes and errors that occur in production.
+    - Crashlytics may log user actions taken prior to a crash to help developers diagnose the issue.
+- **Provider:** Google LLC
+- **Privacy Policy:** [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+---
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## 3. Advertising and Analytics
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+LaxClock displays advertisements using Google AdMob, which may use device identifiers or cookies to deliver relevant ads and track ad performance.  
+You can learn more about how Google uses information from apps and manage your ad preferences here:  
+[https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
 
-<br>
+Analytics data from Firebase helps us understand how the app is used so we can make improvements.  
+All such data is collected in aggregate and does not personally identify users.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+---
 
-<br>
+## 4. User Consent
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+By using LaxClock, you consent to the use of third-party services as described in this Privacy Policy.  
+Users in certain regions (such as the European Economic Area) may see a consent prompt when the app first launches, giving them the option to manage or withdraw consent for analytics and advertising.
+
+---
+
+## 5. Your Privacy Rights (GDPR / CCPA Compliance)
+
+If you are located in a region with privacy laws such as the **General Data Protection Regulation (GDPR)** or the **California Consumer Privacy Act (CCPA)**, you have certain rights regarding your data:
+
+- The right to know what data is collected and for what purpose.
+- The right to access, correct, or request deletion of personal data (if any is held by third parties).
+- The right to opt out of data sharing for advertising or analytics purposes.
+
+Because LaxClock does not collect or store user data directly, requests related to data collected by third-party services (Google, Firebase) should be directed to those providers.
+
+You can review or manage Google’s data collection here:  
+[https://myaccount.google.com/data-and-personalization](https://myaccount.google.com/data-and-personalization)
+
+---
+
+## 6. Children’s Privacy
+
+LaxClock is intended for general audiences and does not knowingly collect personal data from children under 13 years old.  
+If you believe that your child has shared information through third-party services used by this app, please contact those providers directly.
+
+---
+
+## 7. Data Security
+
+LaxClock does not store any personal or usage data on our own servers.  
+All data collected by third-party services is handled securely in accordance with their respective privacy policies.
+
+---
+
+## 8. Changes to This Policy
+
+We may update this Privacy Policy periodically to reflect new features, regulatory changes, or improvements.  
+Any updates will be posted on this page with a new “Last updated” date. Continued use of the app after updates means you accept the revised policy.
+
+---
+
+## 9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+**Email:** HCD.Applications@gmail.com
+
