@@ -4,6 +4,41 @@ title: What's New
 include_in_header: true
 ---
 
+### `Latest Release`
+# **Version 1.1**
+A new feature suggested from user feedback which calculates the time of release for penalties, and a few enhancements. 
+
+## Changes
+
+### New Feature
+- Added preference "Show Release Time" which can be enabled to display the time on the game clock a penalty is released at.
+
+### Enhancements
+- Added occasional requests to review the app after a game is completed.
+- Updated LaxClock+ paywall to indicate when a user is subscribed and changed the purchase button behavior to manage or switch subscription based on selection.
+- Added link on paywall to redeem LaxClock+ promo codes.
+
+<br>
+
+# **Version 1.0.2**
+Squashed a bug causing a crash on the score keeping screen.
+## Changes
+
+### Bug Fix
+- Fixed crash that occurs when the app is backgrounded while the break timer is expired but still visible.
+
+<br>
+
+# **Version 1.0.1**
+A few minor enhancements to the apps icon and the addition of a link to review the app in the navigation bar.
+## Changes
+
+### Enhancements
+- Updated app icon to support new icon themes in iOS 26.
+- Added a link in the navigation bar review the app.
+
+<br>
+
 ### `Initial Release`
 # **Version 1.0**
 Take control of every moment on the field with **LaxClock**, the all-in-one lacrosse game management app. Whether you’re a coach, official, or scorekeeper, LaxClock makes it easy to track game time, shot clock, score, penalties, timeouts, and breaks — all from one clean, intuitive screen.
@@ -31,7 +66,7 @@ Create and save your preferred game setup for any level of play. Customize:
 - Shot clock reset times
 - Default penalty durations
 
-[//]: # (<br>)
+
 
 [//]: # (________)
 
