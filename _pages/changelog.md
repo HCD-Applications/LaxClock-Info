@@ -6,9 +6,7 @@ include_in_header: true
 
 ### `Latest Release`
 # **Version 1.1**
-A new feature suggested from user feedback which calculates the time of release for penalties, and a few enhancements. 
-
-## Changes
+A new feature that was requested by users which calculates the time of release for penalties, and a few enhancements. 
 
 ### New Feature
 - Added preference "Show Release Time" which can be enabled to display the time on the game clock a penalty is released at.
@@ -22,7 +20,6 @@ A new feature suggested from user feedback which calculates the time of release 
 
 # **Version 1.0.2**
 Squashed a bug causing a crash on the score keeping screen.
-## Changes
 
 ### Bug Fix
 - Fixed crash that occurs when the app is backgrounded while the break timer is expired but still visible.
@@ -31,7 +28,6 @@ Squashed a bug causing a crash on the score keeping screen.
 
 # **Version 1.0.1**
 A few minor enhancements to the apps icon and the addition of a link to review the app in the navigation bar.
-## Changes
 
 ### Enhancements
 - Updated app icon to support new icon themes in iOS 26.
