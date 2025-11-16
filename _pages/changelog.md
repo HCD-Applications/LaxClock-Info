@@ -5,6 +5,19 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.1.1**
+A few enhancements to improve the accessibility, look, and feel of the app along with some bug fixes.
+
+### Enhancements
+- Made the size of the action buttons larger to increase accessibility and make the buttons easier to click with gloves on.
+- Redesigned the preferences screen to match the look and feel of the score keeping screen.
+
+### Bug Fixes
+- Fixed incorrect release time for penalties when the length is longer than the time left in the period, and the next period is overtime.
+- Fixed no release time being added to penalty when it goes from stacked to serving.
+
+<br>
+
 # **Version 1.1**
 A new feature that was requested by users which calculates the time of release for penalties, and a few enhancements. 
 
@@ -19,7 +32,7 @@ A new feature that was requested by users which calculates the time of release f
 <br>
 
 # **Version 1.0.2**
-Squashed a bug causing a crash on the score keeping screen.
+Squashed a bug that was causing a crash on the score keeping screen.
 
 ### Bug Fix
 - Fixed crash that occurs when the app is backgrounded while the break timer is expired but still visible.
