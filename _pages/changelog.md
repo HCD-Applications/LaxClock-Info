@@ -5,6 +5,21 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.2**
+Added some new features that were requested by users along with some enhancements to shot clock reset times and a bug fix.
+
+### New Features
+- Added new preference "Show Total Game Time" which can be enabled to display the total elapsed game time.
+- Added new preference "Start Time After Break" which can be enabled to automatically start the game clock after a break expires.
+
+### Enhancements
+- Shot clock reset times can now be customized to be a single or pair of times with any value between 1 and 100 seconds.
+
+### Bug Fix
+- Fixed a bug where every 10th press of the start time button would add an extra second to the game clock.
+
+<br>
+
 # **Version 1.1.1**
 A few enhancements to improve the accessibility, look, and feel of the app along with some bug fixes.
 
