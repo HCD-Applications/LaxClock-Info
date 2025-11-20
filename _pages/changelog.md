@@ -12,7 +12,7 @@ Added some new features that were requested by users along with some enhancement
 - Added new preference "Show Total Game Time" which can be enabled to display the total elapsed game time.
 - Added new preference "Start Time After Break" which can be enabled to automatically start the game clock after a break expires.
 
-### Enhancements
+### Enhancement
 - Shot clock reset times can now be customized to be a single or pair of times with any value between 1 and 100 seconds.
 
 ### Bug Fix
