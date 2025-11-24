@@ -5,6 +5,11 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.2.1**
+Just a few behind the scenes improvements to improve performance and reliability.
+
+<br>
+
 # **Version 1.2**
 Added some new features that were requested by users along with some enhancements to shot clock reset times and a bug fix.
 
