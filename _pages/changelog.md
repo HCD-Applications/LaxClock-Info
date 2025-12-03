@@ -8,6 +8,8 @@ include_in_header: true
 # **Version 1.2.2**
 Added a tutorial that is launched when the app is opened for the first time, and can be relaunched from the navigation bar.
 
+<br>
+
 # **Version 1.2.1**
 Just a few behind the scenes improvements to improve performance and reliability.
 
