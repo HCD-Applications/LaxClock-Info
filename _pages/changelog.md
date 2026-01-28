@@ -5,6 +5,25 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.3**
+Added the ability to track total penalty time for each player, along with several enhancements and bug fixes.
+
+### New Features - Total Penalty Time Tracking
+- Added the ability to track how many minutes of personal fouls each player has accumulated.
+- Added a setting for the time window a player has to accumulate personal fouls before being fouled out.
+- Added a warning dialog that appears after adding penalties when a player has reached the foul-out threshold.
+
+### Enhancements
+- Shot clock reset times can now be customized to be a single time or a pair of times, each between 1 and 100 seconds.
+- Added the ability to edit currently serving penalties.
+- Various minor UI tweaks.
+
+### Bug Fixes
+- Fixed a bug where the sound played twice when the shot clock expired.
+- Fixed a bug where shot clock reset times became illegible in landscape mode on smaller devices.
+
+<br>
+
 # **Version 1.2.2**
 Added a tutorial that is launched when the app is opened for the first time, and can be relaunched from the navigation bar.
 
