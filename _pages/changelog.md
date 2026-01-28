@@ -14,7 +14,6 @@ Added the ability to track total penalty time for each player, along with severa
 - Added a warning dialog that appears after adding penalties when a player has reached the foul-out threshold.
 
 ### Enhancements
-- Shot clock reset times can now be customized to be a single time or a pair of times, each between 1 and 100 seconds.
 - Added the ability to edit currently serving penalties.
 - Various minor UI tweaks.
 
