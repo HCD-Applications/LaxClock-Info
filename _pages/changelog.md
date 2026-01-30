@@ -10,7 +10,7 @@ Added the ability to track total penalty time for each player, along with severa
 
 ### New Features - Total Penalty Time Tracking
 - Added the ability to track how many minutes of personal fouls each player has accumulated.
-- Added a setting for the time window a player has to accumulate personal fouls before being fouled out.
+- Added a setting for the time a player has to accumulate in personal fouls to be fouled out.
 - Added a warning dialog that appears after adding penalties when a player has reached the foul-out threshold.
 
 ### Enhancements
