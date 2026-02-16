@@ -5,6 +5,17 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.3.1**
+Multiple UI enhancements, including the ability to hide all buttons and make the app fill the entire screen to improve its appearance when casting to an external display.
+
+### Enhancements
+- Made the release button in the edit penalty bottom sheet a slider to prevent accidental releases.
+- Updated icons on the paywall and score keeping screen header.
+- Added a button to the score keeping screen header that makes the app fill the entire screen and hides the header and action buttons. This improves the apps appearance when casting to an external display.
+- Minor tweaks to the size and padding of various UI elements to improve the look and feel of the app.
+
+<br>
+
 # **Version 1.3**
 Added the ability to track total penalty time for each player, along with several enhancements and bug fixes.
 
