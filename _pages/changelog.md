@@ -5,6 +5,14 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.3.2**
+Squashed a bug causing a crash when using full screen mode.
+
+### Bug Fix
+- Fixed crash that occurs when the score keeping screen enters full screen mode while a warning message is visible.
+
+<br>
+
 # **Version 1.3.1**
 Multiple UI enhancements, including the ability to hide all buttons and make the app fill the entire screen to improve its appearance when casting to an external display.
 
