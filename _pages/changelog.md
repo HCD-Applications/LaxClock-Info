@@ -5,6 +5,22 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.4**
+Added a new ad type preference for users without LaxClock+, a new preference to prevent the device from sleeping while the score keeping screen is open, and multiple UI adjustments for devices with large or small screens.
+
+### New Features
+- Ad Type Preference: Added a new preference that allows users without LaxClock+ to choose between banner or pop-up ads.
+- Prevent Sleep Preference: Added a new preference that prevents the device from sleeping while the score keeping screen is open.
+
+### Enhancement
+- Increased the size of icons and text on devices with larger screens to improve readability and accessibility.
+
+### Bug Fixes
+- Fixed bug where parts of the score keeping screen were unreadable in landscape mode on large devices.
+- Fixed issue where the text of the remove button in the add penalty bottom sheet was being cut off on smaller devices.
+
+<br>
+
 # **Version 1.3.2**
 Squashed a bug causing a crash when using full screen mode.
 
