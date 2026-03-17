@@ -5,6 +5,22 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.4.1**
+Fixed a couple of bugs related to stacked penalties and total penalty times, as well as a new preference that allows users to foul out players based on the number of personal fouls committed.
+
+### New Feature - Foul Out Count
+- Added a new preference "Foul Out Count" which allows users to set the number of personal fouls a player has to accumulate to be fouled out.
+
+### Enhancements
+- Total penalty times are now sorted from greatest to least in the player totals tab.
+
+### Bug Fixes
+- Fixed numerous issues where stacked penalties were being transferred to serving incorrectly.
+- Fixed bug where total penalty times were including time and a half time when the time and a half preference was enabled.
+
+
+<br>
+
 # **Version 1.4**
 Added a new ad type preference for users without LaxClock+, a new preference to prevent the device from sleeping while the score keeping screen is open, and multiple UI adjustments for devices with large or small screens.
 
