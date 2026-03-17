@@ -11,7 +11,7 @@ Fixed a couple of bugs related to stacked penalties and total penalty times, as 
 ### New Feature - Foul Out Count
 - Added a new preference "Foul Out Count" which allows users to set the number of personal fouls a player has to accumulate to be fouled out.
 
-### Enhancements
+### Enhancement
 - Total penalty times are now sorted from greatest to least in the player totals tab.
 
 ### Bug Fixes
