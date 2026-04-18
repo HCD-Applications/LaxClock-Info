@@ -5,6 +5,18 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.4.2**
+A few bug fixes around timing and an enhancement to the add penalties bottom sheet.
+
+### Enhancements
+- The remove button on the add penalties bottom sheet now only shows when there is more than 1 penalty added.
+
+### Bug Fixes
+- Fixed issue where timers moved slightly with every tick.
+- Fixed issue where starting and stopping the time in under a second repeatedly would result in no time being run off the clock.
+
+<br>
+
 # **Version 1.4.1**
 Fixed a couple of bugs related to stacked penalties and total penalty times, as well as a new preference that allows users to foul out players based on the number of personal fouls committed.
 
@@ -17,7 +29,6 @@ Fixed a couple of bugs related to stacked penalties and total penalty times, as 
 ### Bug Fixes
 - Fixed numerous issues where stacked penalties were being transferred to serving incorrectly.
 - Fixed bug where total penalty times were including time and a half time when the time and a half preference was enabled.
-
 
 <br>
 
