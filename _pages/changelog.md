@@ -5,6 +5,25 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.5.0**
+This release fixes a number of penalty, timing, and purchase bugs and polishes the edit sheets and time pickers.
+
+### Enhancements
+- The second shot clock reset time now defaults to 60 seconds when switching a single reset time to two reset times.
+- The Edit Current Penalty sheet is smoother and no longer constantly redraws while it's open.
+
+### Bug Fixes
+- Fixed an issue where adjusting the game clock and applying the change to penalties could leave some penalties with the wrong time when more than one player was serving.
+- Fixed an issue where adding a penalty could be stacked unnecessarily when an expired penalty was still listed alongside two serving penalties.
+- Fixed an issue where an edited penalty would pause if the game clock had automatically started after a break while the edit sheet was open.
+- Fixed an issue where a player's second penalty could have the wrong time when women's release times or time-and-a-half mode was on and the default penalty time was used.
+- Fixed an issue where quickly scrolling the seconds on a time picker would not roll over the minutes.
+- Fixed an issue where the Apply button was enabled on the Edit Current Penalty sheet for a penalty with no non-releasable time.
+- Fixed an issue where tapping Restore Purchases removed ads for the rest of the session even when there was no LaxClock+ purchase to restore.
+- Fixed a rounding error in the per-month price shown on the LaxClock+ paywall.
+
+<br>
+
 # **Version 1.4.2**
 A few bug fixes around timing and an enhancement to the add penalties bottom sheet.
 
