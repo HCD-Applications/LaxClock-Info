@@ -5,6 +5,25 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.6.0**
+This release saves your game state when the app is closed, adds a keypad for typing jersey numbers, and adds a few quality-of-life improvements and crash fixes.
+
+### New Features
+- The current game is now saved, so closing the app or restarting your device no longer loses the score, clocks, or penalties. When you reopen the app, the game is restored with every clock paused.
+- Added a keypad option for typing jersey numbers in the Add Penalty sheet.
+
+### Enhancements
+- A short message now shows when you reset the shot clock.
+- Players are removed from the penalty totals when their time is set to 0. The edit sheet's button turns into a red "Remove" button when this will happen.
+- The current period tile now says "Half" or "Quarter" to match your game format, instead of "Period".
+- Bottom sheets now stay above the keyboard.
+
+### Bug Fixes
+- Fixed a crash when restarting the game clock while a team had an expired penalty and a stacked penalty waiting.
+- Fixed a crash on launch that occurred if the settings file was corrupted. The app now resets the settings to their defaults instead.
+
+<br>
+
 # **Version 1.5.0**
 This release fixes a number of penalty, timing, and purchase bugs and polishes the edit sheets and time pickers.
 
