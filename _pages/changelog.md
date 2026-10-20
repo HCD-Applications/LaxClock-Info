@@ -5,6 +5,24 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.7.0**
+This release makes timing presets customizable and shareable, tidies up the Preferences screen, and fixes a few issues on the Score Keeping screen.
+
+### New Features
+- LaxClock+ users can now create, edit, and delete their own timing presets. The four built-in presets (HS Boys, HS Girls, Collegiate Mens, Collegiate Womens) are now editable defaults.
+- Timing presets can be shared as `.laxclock` files. Anyone can open a shared preset: LaxClock+ users get it added to their presets, and everyone else gets its settings applied.
+
+### Enhancements
+- Reorganised the Preferences screen: the Automations section was removed, with Release Penalties on Goal moved to Penalties, and Stop Time on Goal, Stop Time on Timeout, and Start Time After Break moved to Game Format.
+- Reset All Preferences now shows a warning before resetting, and also restores the default timing presets.
+
+### Bug Fixes
+- Fixed the game pausing when going back to Score Keeping through the side menu, or when finishing the tutorial opened from it.
+- Fixed the current period tile's label and number jumping when the period dots hide in overtime.
+- Fixed the jersey number field scrolling vertically.
+
+<br>
+
 # **Version 1.6.0**
 This release saves your game state when the app is closed, adds a keypad for typing jersey numbers, and adds a few quality-of-life improvements and crash fixes.
 
