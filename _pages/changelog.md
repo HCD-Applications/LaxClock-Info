@@ -5,6 +5,23 @@ include_in_header: true
 ---
 
 ### `Latest Release`
+# **Version 1.8.0**
+This release lets LaxClock+ users choose when the time left warning goes off, and fixes how Apply to Penalties handles expired penalties when time is added back.
+
+### New Feature
+- Added a Warning Time preference for LaxClock+ users, so the time left warning can go off at any chosen time instead of always at 2:00. The warning and its notification show the chosen time (e.g. "1:30 remaining in the period"), and it goes off once per period when the running game clock reaches that time.
+
+### Enhancements
+- Renamed the Two-Minute Warning preference to Time Left Warning and added an explanation of what it does. The Warning Time row appears below it while it's on.
+- The Edit Time preview now outlines expired penalties in red with their time pulsing, and animates as penalties move between serving and stacked.
+
+### Bug Fixes
+- Fixed adding time with Apply to Penalties giving an expired penalty time back, which could leave a team with 4 penalties serving. Adding time now rewinds the penalties instead: a penalty that expired after the new clock time serves again, and the penalty that replaced it goes back to the stacked list. The Edit Time preview now matches exactly what is applied.
+- Fixed a penalty's selected length on the Add Penalty sheet resetting on screen when adding several penalties and scrolling it out of view.
+- Fixed time and number pickers opening at the wrong value when an imported timing preset holds a value they can't show; they now open at the nearest value.
+
+<br>
+
 # **Version 1.7.0**
 This release makes timing presets customizable and shareable, tidies up the Preferences screen, and fixes a few issues on the Score Keeping screen.
 
