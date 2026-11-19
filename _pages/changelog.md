@@ -2,6 +2,7 @@
 layout: page
 title: What's New
 include_in_header: true
+redirect_to: https://hcdapps.web.app/laxclock/changelog/
 ---
 
 ### `Latest Release`

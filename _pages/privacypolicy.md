@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 include_in_header: true
+redirect_to: https://hcdapps.web.app/laxclock/privacypolicy/
 ---
 
 # Privacy Policy for LaxClock

@@ -124,6 +124,10 @@ footer_text_color                         : "#666666"
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
+# Every page redirects to the HCD Applications website (SportsClockApps #104).
+plugins:
+  - jekyll-redirect-from
+
 # Exclude these files from your production _site
 exclude:
   - LICENSE
